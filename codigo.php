@@ -1,4 +1,5 @@
 <?php
+require "Atendente.php";
 
 $obj = new Atendente();
 
